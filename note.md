@@ -27,3 +27,11 @@ Note - Extgention:
 1. Install liveServer
 
 - You can use this only for .html files.
+
+`git status`
+
+`git add .` staging
+
+`git commit -m "An update has been made"`
+
+`git push origin main`

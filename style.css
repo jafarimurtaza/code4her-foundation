@@ -1,14 +1,17 @@
 body {
-    background-color: black;
+    background-color: rgb(13, 13, 13);
+    color: white;
 }
 
 .myDev {
-    background-color: greenyellow;
+    background-color: rgb(111, 118, 8);
     width: 90%;
 }
 
 
-.secondDev {
-    background-color: lightblue;
-    width: 70%;
+ol {
+    /* list-style:armenian */
+    /* list-style-type: square; */
+    /* list-style-type: lower-roman; */
+    list-style-type: lower-greek;
 }
