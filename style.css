@@ -3,15 +3,42 @@ body {
     color: white;
 }
 
-.myDev {
-    background-color: rgb(111, 118, 8);
-    width: 90%;
+
+/* General */
+h1 {
+    color: red;
 }
 
+/* Class */
+.my-h1 {
+    color: white;
+}
 
-ol {
-    /* list-style:armenian */
-    /* list-style-type: square; */
-    /* list-style-type: lower-roman; */
-    list-style-type: lower-greek;
+/* ID */
+#heading-1 {
+    color: rgb(4, 4, 191);
+}
+
+.caimlla-img {
+    width: 40%;
+    height: auto;
+}
+
+.box-1 {
+    background-color: rgb(129, 121, 2);
+}
+
+.box-2 {
+    background-color: rgb(0, 246, 82);
+}
+
+.container {
+    display: flex;
+    justify-content:space-between;
+    gap: 40px;
+}
+p {
+    background-color: rgb(0, 130, 223);
+    padding: 10px;
+    /* margin: 10px; */
 }

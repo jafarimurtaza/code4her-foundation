@@ -35,3 +35,13 @@ Note - Extgention:
 `git commit -m "An update has been made"`
 
 `git push origin main`
+
+1. `pwd` = Shows your current location in Git Bash.
+2. `ls` = Lists the contents of your current directory.
+3. `cd "folder name"` = Changes into the specified folder.
+4. `mkdir "folder name"` = Creates a new folder with the specified name.
+5. `git clone "repository name"` = Clones a repository to your computer.  
+   Example:  
+   `git clone https://github.com/jafarimurtaza/code4her-foundation`  
+   This will clone the repository to your local machine.
+6. `code .` = Opens the current folder in VS Code.
